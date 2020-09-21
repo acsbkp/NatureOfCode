@@ -1,3 +1,7 @@
+// Https://github.com/AbhiroopKar-p5Creator/NatureOfCode/Constructing_Random_walker/sketch.js
+// Nature Of Code
+// Abhiroop Kar
+
 var particle;
 var choise;
 var x = 683
@@ -23,3 +27,8 @@ function draw() {
  	y = y + 1
  }
 }
+// So,this is asimplified version of the nature of code
+// this code example is obtainded by Nature of code First edition
+// It is there without OOP(ObjectOrientedProgramming)edited by me(Abhiroop Kar)
+// If you liked this code please contact me on my email (abhiroop.kar2010@gmail.com)
+// Please comment, a part of it goes to Daniel Shiffmen my inspiration.
